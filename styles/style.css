@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #FFFFFF;
     ;
 }
@@ -23,7 +23,7 @@ body{
     list-style: circle;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
     list-style: none;
     text-decoration: none;
     
@@ -63,7 +63,7 @@ body{
 
 }
 
-.overlay{
+.overlay {
     position: absolute;
     z-index: 0;
     background-color: rgba(0, 0, 0, 0.6);
@@ -82,7 +82,7 @@ body{
     position: relative;
 }
 
-.title-pos{
+.title-pos {
     position: absolute;
 }
 
@@ -132,17 +132,17 @@ body{
     color: #FFFFFF;
 }
 
-.description-text{
+.description-text {
     display: inline-block;
     word-spacing: 20px;
 }
 
-.description-text-word-spacing{
+.description-text-word-spacing {
     word-spacing: 18px;
 }
 
 
-.button{
+.button {
     width: 256px;
     height: 51px;
     border-width: 1px;
@@ -166,7 +166,7 @@ body{
     box-sizing: border-box;
 }
 
-.lots__heading{
+.lots__heading {
     height: 47px;
     width: 121px;
     font-family: Raleway;
@@ -192,11 +192,11 @@ body{
     
 }
 
-.card-link{
+.card-link {
     text-decoration: none;
 }
 
-.card-flex-text{
+.card-flex-text {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -205,7 +205,7 @@ body{
     height: 100%;
 }
 
-.card-title{
+.card-title {
     font-family: Raleway;
     font-weight: 700;
     font-size: 22px;
@@ -217,7 +217,7 @@ body{
     
 }
 
-.card-paragrapf{
+.card-paragrapf {
     font-family: Raleway;
     font-weight: 400;
     font-size: 20px;
@@ -228,7 +228,7 @@ body{
     color: #FFFFFF;
 }
 
-.card_type_film  {
+.card_type_film {
     width: 334px;
     height: 596px;
     background-image: url(../images/card-lot-01.jpg);
@@ -253,7 +253,7 @@ body{
     background-size: cover;
 }
 
-.more{
+.more {
     display: inline-block;
     font-family: Raleway;
     font-weight: 400;
@@ -285,12 +285,12 @@ body{
     margin-top: 35px;
 }
 
-.about__logo-image{
+.about__logo-image {
     width: 148px;
     height: 114px;
 }
 
-.about__title{
+.about__title {
     font-family: Raleway;
     font-weight: 700;
     font-size: 40px;
@@ -331,7 +331,6 @@ body{
 }
 
 .footer-menu {
-    text-align: justify;
     font-size: 18px;
     width: 164px;
     text-align: center;
@@ -355,7 +354,7 @@ body{
 
 }
 
-.socials-item{
+.socials-item {
     height: 48px;
     width: 48px;
 }
