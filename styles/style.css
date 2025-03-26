@@ -28,6 +28,10 @@ body {
     text-decoration: none;
 }
 
+.header-links-list-item {
+    text-decoration: underline;
+}
+
 .header-logo {
     display: block;
      padding: 0;
